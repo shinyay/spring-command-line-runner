@@ -1,10 +1,14 @@
 # Spring Boot CommandLineRunner
 
-Overview
+CommandLineRunner run() will get execute, just after applicationcontext is created and before springboot application starts up.
 
 ## Description
 
 ## Demo
+
+```
+$ java -jar ./build/libs/*.jar parameter1 parameter2 parameter3
+```
 
 ## Features
 
